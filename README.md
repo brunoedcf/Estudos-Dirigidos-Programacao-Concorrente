@@ -1,5 +1,5 @@
 # Estudos Dirigidos Programacao Concorrente
- Estudos dirigidos realizados durante a disciplica de Programação Concorrente.
+ Estudos dirigidos realizados durante a disciplina de Programação Concorrente.
 
  Para compilar utilize "gcc -pthread <arquivo.c>"
 
